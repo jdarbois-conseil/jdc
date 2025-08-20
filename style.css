@@ -1,0 +1,90 @@
+/* GENERAL */
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #333;
+  background: #fafafa;
+}
+
+/* HEADER */
+header {
+  background: #2c4b3a;
+  color: white;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+header .profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.2em;
+}
+
+header .subtitle {
+  font-size: 1em;
+  margin: 15px 0;
+}
+
+.btn {
+  display: inline-block;
+  background: #f4b400;
+  color: #fff;
+  padding: 10px 20px;
+  margin-top: 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* SECTIONS */
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #2c4b3a;
+  border-bottom: 2px solid #f4b400;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.job {
+  margin-bottom: 20px;
+}
+
+.job h3 {
+  margin: 0;
+  color: #444;
+}
+
+.job span {
+  font-size: 0.9em;
+  color: #777;
+}
+
+/* LISTS */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 5px 0;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #2c4b3a;
+  color: white;
+}
